@@ -1,8 +1,18 @@
 {
     "image1": {
-        "data": "hwQQABAAAACZmQkAAAAAAAAAAAmZmZkJkJmZCQkAAAmQkJAJCQCQCZCQAAAJmZkAkJCZmQAJAAAAkAAAkAmZmZmZkACQAAmQAACQAJCQCZCQmZmQkJkAmQAAkJAAAJAAkJmQkJAAmQmQAJCQkAAACZCZmZCQmQkAAACQkAAAmZmZmZmZmQkAAA==",
+        "data": "hwQQABAAAAAAmQkAAAAAAJCqmwAAAAAAqbu7mQkAAJmpu8yZmQCZ2ZC7zO6ZCZndAJmZ3pmdnZkAkJmZmdmZmQCQmZmZyZyZAJCZmZnJnJkAkJmZmdmZmQCZmd6ZnZ2ZkLvM7pkJmd2pu8yZmQCZ2am7u5kJAN2ZkKqbAADQDQAAmQkA0N0AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "squeaks"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAIAIAAAAAG9mZooAAADwZv9mqAgAAP9v9vaIigDwZm9m9oiKAPBv/2ZmiIoAAP//ZmaIigAA/2Zm9oiKAAD/b2b/iIoAAGBvb2aIigAA8G/2ZoiKAADwb2ZmiIoAAABvZmaoCAAAAP/2ZooAAAAAAACACAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
