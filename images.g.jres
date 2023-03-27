@@ -4,15 +4,15 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "squeaks"
     },
-    "image2": {
-        "data": "hwQQABAAAAAAAAAAAIAIAAAAAG9mZooAAADwZv9mqAgAAP9v9vaIigDwZm9m9oiKAPBv/2ZmiIoAAP//ZmaIigAA/2Zm9oiKAAD/b2b/iIoAAGBvb2aIigAA8G/2ZoiKAADwb2ZmiIoAAABvZmaoCAAAAP/2ZooAAAAAAACACAAAAAAAAAAAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "myImage"
-    },
     "image3": {
-        "data": "hwQQABAAAAAzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMw==",
+        "data": "hwQQABAAAABVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVQ==",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage0"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAzMzMzM4M4MzMzM29mZoozMzPzZv9mqDgzM/9v9vaIijPzZm9m9oiKM/Nv/2ZmiIozM///ZmaIijMz/2Zm9oiKMzP/b2b/iIozM2Nvb2aIijMz82/2ZoiKMzPzb2ZmiIozMzNvZmaoODMzM//2ZoozMzMzMzODODMzMzMzMzMzMw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",

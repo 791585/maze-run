@@ -1,11 +1,15 @@
 scene.onOverlapTile(SpriteKind.Player, assets.tile`myTile18`, function (sprite, location) {
     info.changeLifeBy(-1)
+    tiles.setTileAt(location, assets.tile`myTile19`)
 })
 scene.onOverlapTile(SpriteKind.Player, assets.tile`myTile17`, function (sprite, location) {
-    info.changeLifeBy(2)
+    info.changeScoreBy(1)
+    tiles.setTileAt(location, assets.tile`myTile19`)
 })
-scene.setBackgroundImage(assets.image`myImage0`)
 tiles.setCurrentTilemap(tilemap`level`)
+scene.setBackgroundImage(assets.image`myImage0`)
 let squeaks = sprites.create(assets.image`squeaks`, SpriteKind.Player)
 controller.moveSprite(squeaks, 100, 100)
+scene.cameraFollowSprite(squeaks)
 tiles.placeOnTile(squeaks, tiles.getTileLocation(1, 0))
+info.setLife(3)
