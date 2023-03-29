@@ -1,9 +1,4 @@
 {
-    "image1": {
-        "data": "hwQQABAAAAAAmQkAAAAAAJCqmwAAAAAAqbu7mQkAAJmpu8yZmQCZ2ZC7zO6ZCZndAJmZ3pmdnZkAkJmZmdmZmQCQmZmZyZyZAJCZmZnJnJkAkJmZmdmZmQCZmd6ZnZ2ZkLvM7pkJmd2pu8yZmQCZ2am7u5kJAN2ZkKqbAADQDQAAmQkA0N0AAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "squeaks"
-    },
     "image3": {
         "data": "hwQQABAAAABVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVQ==",
         "mimeType": "image/x-mkcd-f4",
@@ -13,6 +8,11 @@
         "data": "hwQQABAAAAAzMzMzM4M4MzMzM29mZoozMzPzZv9mqDgzM/9v9vaIijPzZm9m9oiKM/Nv/2ZmiIozM///ZmaIijMz/2Zm9oiKMzP/b2b/iIozM2Nvb2aIijMz82/2ZoiKMzPzb2ZmiIozMzNvZmaoODMzM//2ZoozMzMzMzODODMzMzMzMzMzMw==",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAmQkAAAAAAJCqmwAAAAAAqbu7mQkAALmpu8yZmQCZuZC7zO6ZCZm7AJmZ3pmdnZkAkJmZmdmZmQCQmZmZyZyZAJCZmZnJnJkAkJmZmdmZmQCZmd6ZnZ2ZkLvM7pkJmbupu8yZmQCZuam7u5kJALuZkKqbAACwCwAAmQkAsLsAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "squeaks"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",

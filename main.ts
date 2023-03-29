@@ -1,6 +1,15 @@
+scene.onOverlapTile(SpriteKind.Player, assets.tile`myTile22`, function (sprite, location) {
+    game.gameOver(true)
+    game.setGameOverEffect(true, effects.confetti)
+    game.setGameOverPlayable(true, music.melodyPlayable(music.powerUp), false)
+})
 scene.onOverlapTile(SpriteKind.Player, assets.tile`myTile18`, function (sprite, location) {
     info.changeLifeBy(-1)
     tiles.setTileAt(location, assets.tile`myTile19`)
+})
+scene.onOverlapTile(SpriteKind.Player, assets.tile`myTile20`, function (sprite, location) {
+    tiles.setCurrentTilemap(tilemap`level`)
+    scene.setBackgroundImage(assets.image`myImage0`)
 })
 scene.onOverlapTile(SpriteKind.Player, assets.tile`myTile17`, function (sprite, location) {
     info.changeScoreBy(1)

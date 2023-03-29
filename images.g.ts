@@ -3,25 +3,6 @@ namespace myImages {
 
     helpers._registerFactory("image", function(name: string) {
         switch(helpers.stringTrim(name)) {
-            case "image1":
-            case "squeaks":return img`
-. . 9 9 . . . . . . . . 9 9 . . 
-. 9 a a 9 . . . . . . 9 a a 9 . 
-9 a b b b 9 . . . . 9 b b b a 9 
-9 a b b b 9 9 9 9 9 9 b b b a 9 
-9 b b c c 9 9 9 9 9 9 c c b b 9 
-. 9 b c c 9 9 9 9 9 9 c c b 9 . 
-. . 9 9 e e 9 9 9 9 e e 9 9 . . 
-. . 9 9 e d 9 9 9 9 d e 9 9 . . 
-. . 9 9 9 9 9 9 9 9 9 9 9 9 . . 
-. . . 9 9 9 9 9 9 9 9 9 9 . . d 
-. . . . 9 d 9 9 9 9 d 9 . . . d 
-. . . . . 9 d c c d 9 . . . d d 
-. . . 9 9 d 9 c c 9 d 9 9 d d . 
-. . . 9 9 9 9 9 9 9 9 9 9 d . . 
-. . 9 9 d 9 9 9 9 9 9 d 9 9 . . 
-. . 9 d d 9 9 9 9 9 9 d d 9 . . 
-`;
             case "image3":
             case "myImage0":return img`
 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
@@ -59,6 +40,25 @@ namespace myImages {
 3 8 a 8 8 8 8 8 8 8 8 8 a 8 3 3 
 3 3 8 a a a a a a a a a 8 3 3 3 
 3 3 3 8 8 8 8 8 8 8 8 8 3 3 3 3 
+`;
+            case "image1":
+            case "squeaks":return img`
+. . 9 9 . . . . . . . . 9 9 . . 
+. 9 a a 9 . . . . . . 9 a a 9 . 
+9 a b b b 9 . . . . 9 b b b a 9 
+9 a b b b 9 9 9 9 9 9 b b b a 9 
+9 b b c c 9 9 9 9 9 9 c c b b 9 
+. 9 b c c 9 9 9 9 9 9 c c b 9 . 
+. . 9 9 e e 9 9 9 9 e e 9 9 . . 
+. . 9 9 e d 9 9 9 9 d e 9 9 . . 
+. . 9 9 9 9 9 9 9 9 9 9 9 9 . . 
+. . . 9 9 9 9 9 9 9 9 9 9 . . b 
+. . . . 9 d 9 9 9 9 d 9 . . . b 
+. . . . . 9 d c c d 9 . . . b b 
+. . . 9 9 d 9 c c 9 d 9 9 b b . 
+. . . 9 9 9 9 9 9 9 9 9 9 b . . 
+. . 9 9 b 9 9 9 9 9 9 b 9 9 . . 
+. . b b b 9 9 9 9 9 9 b b 9 . . 
 `;
         }
         return null;
